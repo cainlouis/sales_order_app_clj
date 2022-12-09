@@ -1,0 +1,8 @@
+1|John Smith|123 Here Street|456-4567
+2|SueJones|43 Rose Court Street|345-7867
+3|Fan Yuhong|165 Happy Lane|345-4533
+4|Neil Fisher|123 Robot Street|456-4567
+5|Johanna Salty|43 Salty Court Street|345-7867
+6|Zach Malkinson|165 fake Lane|345-4533
+7|John Davis|34 Prevost Court Street|345-7867
+8|Zach Malkinson|456 Catherine Lane|345-4533
